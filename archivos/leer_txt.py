@@ -1,0 +1,6 @@
+archivo_sin_leer = open('archivos\\txt.txt',encoding="utf-8")
+#archivo = archivo_sin_leer.read()
+#linea_1 = archivo_sin_leer.readlines()
+linea_1 = archivo_sin_leer.readline()
+archivo_sin_leer.close()
+print(linea_1)

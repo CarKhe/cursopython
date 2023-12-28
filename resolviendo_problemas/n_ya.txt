@@ -1,0 +1,10 @@
+Los datos son:
+ Nombre:lucas
+ Apellido:Galto
+ -------
+Nombre:Matias
+ Apellido:Tarado
+ -------
+Nombre:Camila
+ Apellido:Robertix
+ -------
